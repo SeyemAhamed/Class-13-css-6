@@ -1,0 +1,20 @@
+
+
+========Position=======
+
+Position: (static/relative/absoulate/fixed)
+
+static: default (top, right, bottom, left will not be worked)
+
+relative: element related to itself (top, right, bottom, left)
+
+absoulate: Position relative to it's parent(ancestor) (top,right, bottom, left )
+
+fixed: position relative to it's browser
+
+sticky: position depends on scroll
+
+top, right, bottom, left
+
+=====Float=====
+right, left
